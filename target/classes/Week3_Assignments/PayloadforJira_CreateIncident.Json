@@ -1,0 +1,11 @@
+{
+    "fields": {
+        "project": {
+            "id": "10000"
+        },
+        "summary": "create issue in RA project",
+        "issuetype": {
+            "name": "Story"
+        }
+    }
+}
